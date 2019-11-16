@@ -1,0 +1,1370 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.23)  25 OCT 2019 11:33
+entering extended mode
+**./Informe_Tecnico.tex
+(Informe_Tecnico.tex
+LaTeX2e <2018-12-01>
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article
+.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.
+clo"
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (preambulo.tex
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputen
+c.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babe
+l.sty"
+Package: babel 2019/07/19 3.33 The Babel package
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\swit
+ch.def"
+File: switch.def 2019/07/19 3.33 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopt
+s.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-spanis
+h\spanish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babe
+l.def"
+File: babel.def 2019/07/19 3.33 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtb
+abel.def")
+\bbl@dirlevel=\count89
+)
+\es@quottoks=\toks16
+\es@quotdepth=\count90
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsm
+ath.sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amst
+ext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsg
+en.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen104
+))
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsb
+sy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen105
+)
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amso
+pn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks18
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks19
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks20
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\ams
+fonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\ams
+symb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\gra
+phicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\key
+val.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\gra
+phics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\tri
+g.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg
+\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def
+\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geo
+metry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\i
+fpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\i
+fvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\if
+xetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count103
+\Gm@cntv=\count104
+\c@Gm@tempcnt=\count105
+\Gm@bindingoffset=\dimen115
+\Gm@wd@mp=\dimen116
+\Gm@odd@mp=\dimen117
+\Gm@even@mp=\dimen118
+\Gm@layoutwidth=\dimen119
+\Gm@layoutheight=\dimen120
+\Gm@layouthoffset=\dimen121
+\Gm@layoutvoffset=\dimen122
+\Gm@dimlist=\toks23
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geo
+metry.cfg"))
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolo
+r.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg
+\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xwatermark\x
+watermark.sty"
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/catoptions\c
+atoptions.sty"
+\m@one=\count106
+\z@pt=\dimen123
+Package: catoptions 2014/08/29 v0.2.7h Securing catcodes and parsing options (A
+M)
+\cpt@csvdepth=\count107
+\cpt@optdepth=\count108
+\cpt@cnta=\count109
+\indrisdepth=\count110
+\cpt@foreachdepth=\count111
+\cpt@exprcnt=\count112
+)
+Package: xwatermark 2012/10/23 v1.5.2d A dynamic watermarking scheme (Ahmed Mus
+a)
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fix-cm.
+sty"
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.
+def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.
+dfu"
+File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+FEFF (decimal 65279)
+)))
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\pic
+ture.sty"
+Package: picture 2016/05/16 v1.4 Dimens for picture macros (HO)
+Package picture Info: Calculation method: etex.
+)
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\a
+tbegshi.sty"
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\i
+nfwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\l
+txcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fan
+cyhdr.sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip46
+\f@nch@O@elh=\skip47
+\f@nch@O@erh=\skip48
+\f@nch@O@olh=\skip49
+\f@nch@O@orh=\skip50
+\f@nch@O@elf=\skip51
+\f@nch@O@erf=\skip52
+\f@nch@O@olf=\skip53
+\f@nch@O@orf=\skip54
+)
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\atv
+eryend.sty"
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ltxkeys\ltxk
+eys.sty"
+Package: ltxkeys 2012/11/17 v0.0.3c A robust key-value parser (AM) (Ahmed Musa)
+
+\ltxkeys@csvdepth=\count113
+\ltxkeys@keydepth=\count114
+)
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/framed\frame
+d.sty"
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip55
+\fb@frw=\dimen124
+\fb@frh=\dimen125
+\FrameRule=\dimen126
+\FrameSep=\dimen127
+)
+\AtBeginShipoutBox=\box29
+\xwm@boxa=\box30
+\xwm@boxb=\box31
+\xwm@cnta=\count115
+\xwm@wrt=\write3
+ (Informe_Tecnico.xwm)
+\openout3 = `Informe_Tecnico.xwm'.
+
+)
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\afterp
+age.sty"
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks24
+\AP@partial=\box32
+\AP@footins=\box33
+)
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\enumer
+ate.sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks25
+)
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyp
+erref.sty"
+Package: hyperref 2019/09/12 v6.88i Hypertext links for LaTeX
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\h
+obsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\h
+obsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package hobsub Info: Skipping package `atveryend' (already loaded).
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\aux
+hook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvo
+ptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen128
+\Hy@linkcounter=\count116
+\Hy@pagecounter=\count117
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1
+enc.def"
+File: pd1enc.def 2019/09/12 v6.88i Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count118
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyp
+erref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4424.
+Package hyperref Info: Hyper figures OFF on input line 4550.
+Package hyperref Info: Link nesting OFF on input line 4555.
+Package hyperref Info: Hyper index ON on input line 4558.
+Package hyperref Info: Plain pages OFF on input line 4565.
+Package hyperref Info: Backreferencing OFF on input line 4570.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4803.
+\c@Hy@tempcnt=\count119
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5156.
+\XeTeXLinkMargin=\dimen129
+\Fld@menulength=\count120
+\Field@Width=\dimen130
+\Fld@charsize=\dimen131
+Package hyperref Info: Hyper figures OFF on input line 6411.
+Package hyperref Info: Link nesting OFF on input line 6416.
+Package hyperref Info: Hyper index ON on input line 6419.
+Package hyperref Info: backreferencing OFF on input line 6426.
+Package hyperref Info: Link coloring ON on input line 6429.
+Package hyperref Info: Link coloring with OCG OFF on input line 6436.
+Package hyperref Info: PDF/A mode OFF on input line 6441.
+LaTeX Info: Redefining \ref on input line 6481.
+LaTeX Info: Redefining \pageref on input line 6485.
+\Hy@abspage=\count121
+\c@Item=\count122
+\c@Hfootnote=\count123
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpd
+ftex.def"
+File: hpdftex.def 2019/09/12 v6.88i Hyperref driver for pdfTeX
+\Fld@listcount=\count124
+\c@bookmark@seq@number=\count125
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rer
+unfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip56
+)
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titling\titl
+ing.sty"
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip57
+\thanksmargin=\skip58
+\droptitle=\skip59
+)
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\tit
+lesec.sty"
+Package: titlesec 2019/09/09 v2.12 Sectioning titles
+\ttl@box=\box34
+\beforetitleunit=\skip60
+\aftertitleunit=\skip61
+\ttl@plus=\dimen132
+\ttl@minus=\dimen133
+\ttl@toksa=\toks26
+\titlewidth=\dimen134
+\titlewidthlast=\dimen135
+\titlewidthfirst=\dimen136
+)
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.
+sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count126
+\float@exts=\toks27
+\float@box=\box35
+\@float@everytoks=\toks28
+\@floatcapt=\box36
+)) (Informe_Tecnico.aux (portada.aux) (Agradecimientos.aux)
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+ (resumen.aux)
+(generalidades.aux) (Marcoteorico.aux) (desarrollo.aux) (resultados.aux)
+(conclusiones.aux) (competencias.aux) (fuentesinformacion.aux) (anexos.aux))
+\openout1 = `Informe_Tecnico.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\
+supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count127
+\scratchdimen=\dimen137
+\scratchbox=\box37
+\nofMPsegments=\count128
+\nofMParguments=\count129
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count130
+\MPscratchDim=\dimen138
+\MPnumerator=\count131
+\makeMPintoPDFobject=\count132
+\everyMPtoPDFconversion=\toks30
+)
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\eps
+topdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grf
+ext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 472.03123pt, 85.35826pt)
+* v-part:(T,H,B)=(56.9055pt, 652.70622pt, 85.35826pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=472.03123pt
+* \textheight=652.70622pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring ON on input line 8.
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nam
+eref.sty"
+Package: nameref 2019/09/12 v2.45 Cross-referencing by name of section
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\g
+ettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count133
+)
+LaTeX Info: Redefining \ref on input line 8.
+LaTeX Info: Redefining \pageref on input line 8.
+LaTeX Info: Redefining \nameref on input line 8.
+ (Informe_Tecnico.out) (Informe_Tecnico.out)
+\@outlinefile=\write4
+\openout4 = `Informe_Tecnico.out'.
+
+\openout2 = `portada.aux'.
+
+ (portada.tex
+<sep.png, id=150, 225.84375pt x 70.01157pt>
+File: sep.png Graphic file (type png)
+<use sep.png>
+Package pdftex.def Info: sep.png  used on input line 5.
+(pdftex.def)             Requested size: 142.2823pt x 44.1075pt.
+<tecnm.png, id=152, 123.8445pt x 53.874pt>
+File: tecnm.png Graphic file (type png)
+<use tecnm.png>
+Package pdftex.def Info: tecnm.png  used on input line 6.
+(pdftex.def)             Requested size: 148.61264pt x 64.64844pt.
+<gob.png, id=153, 60.7725pt x 83.1105pt>
+File: gob.png Graphic file (type png)
+<use gob.png>
+Package pdftex.def Info: gob.png  used on input line 7.
+(pdftex.def)             Requested size: 72.92662pt x 99.73207pt.
+<itste.png, id=154, 225.84375pt x 225.84375pt>
+File: itste.png Graphic file (type png)
+<use itste.png>
+Package pdftex.def Info: itste.png  used on input line 8.
+(pdftex.def)             Requested size: 90.33589pt x 90.33589pt.
+
+Overfull \hbox (0.6715pt too wide) in paragraph at lines 5--9
+[][] 
+ []
+
+
+Overfull \hbox (7.00183pt too wide) in paragraph at lines 5--9
+[] 
+ []
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 9.
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\ums
+a.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 9.
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\ums
+b.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<lineas.png, id=155, 18.82031pt x 641.39626pt>
+File: lineas.png Graphic file (type png)
+<use lineas.png>
+Package pdftex.def Info: lineas.png  used on input line 11.
+(pdftex.def)             Requested size: 18.82025pt x 641.39468pt.
+
+Overfull \hbox (42.9855pt too wide) in paragraph at lines 4--40
+[]$[]$ $[]$ $[]$ 
+ []
+
+
+LaTeX Warning: Float too large for page by 53.10828pt on input line 40.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)
+LaTeX Font Info:    Try loading font information for OT1+bch on input line 10.
+
+("C:\Users\Albert Vela\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1bc
+h.fd"
+File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
+)
+<logo.png, id=156, 615.0478pt x 795.72281pt>
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 10.
+(pdftex.def)             Requested size: 615.04631pt x 795.72086pt.
+ [1{C:/Users/Albert Vela/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./
+logo.png> <./sep.png> <./tecnm.png> <./gob.png> <./itste.png> <./lineas.png>]
+\openout2 = `Agradecimientos.aux'.
+
+ (Agradecimientos.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
+
+ []
+
+) [2
+
+
+
+
+]
+\openout2 = `resumen.aux'.
+
+ (resumen.tex
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+) [3
+
+
+] (Informe_Tecnico.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+Overfull \hbox (1.95854pt too wide) detected at line 21
+\OT1/cmr/bx/n/12 III. 
+ []
+
+
+Overfull \hbox (1.34741pt too wide) detected at line 30
+\OT1/cmr/bx/n/12 IV. 
+ []
+
+
+Overfull \hbox (1.34741pt too wide) detected at line 36
+\OT1/cmr/bx/n/12 VI. 
+ []
+
+[4
+
+]
+Overfull \hbox (6.7502pt too wide) detected at line 37
+\OT1/cmr/bx/n/12 VII. 
+ []
+
+
+Overfull \hbox (12.15298pt too wide) detected at line 38
+\OT1/cmr/bx/n/12 VIII. 
+ []
+
+)
+\tf@toc=\write5
+\openout5 = `Informe_Tecnico.toc'.
+
+ [5]
+\openout2 = `generalidades.aux'.
+
+ (generalidades.tex
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+[6
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 97--17
+
+ []
+
+[9] [10]
+\openout2 = `Marcoteorico.aux'.
+
+ (Marcoteorico.tex
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+[11
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 48--18
+
+ []
+
+[12]
+\openout2 = `desarrollo.aux'.
+
+ (desarrollo.tex
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+[13
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+<./CasosdeUso/Alumnos.jpeg, id=256, 486.31688pt x 246.1697pt>
+File: ./CasosdeUso/Alumnos.jpeg Graphic file (type jpg)
+<use ./CasosdeUso/Alumnos.jpeg>
+Package pdftex.def Info: ./CasosdeUso/Alumnos.jpeg  used on input line 40.
+(pdftex.def)             Requested size: 364.73676pt x 184.6268pt.
+<./CasosdeUso/Administracion.jpeg, id=257, 519.44063pt x 249.93375pt>
+File: ./CasosdeUso/Administracion.jpeg Graphic file (type jpg)
+<use ./CasosdeUso/Administracion.jpeg>
+Package pdftex.def Info: ./CasosdeUso/Administracion.jpeg  used on input line 4
+6.
+(pdftex.def)             Requested size: 363.60596pt x 174.95242pt.
+[14pdfTeX warning (ext4): destination with the same identifier (name{figure.1})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.49 
+      <./CasosdeUso/Alumnos.jpeg>]
+<./CasosdeUso/Bibliotecario.jpeg, id=263, 763.35187pt x 380.17032pt>
+File: ./CasosdeUso/Bibliotecario.jpeg Graphic file (type jpg)
+<use ./CasosdeUso/Bibliotecario.jpeg>
+Package pdftex.def Info: ./CasosdeUso/Bibliotecario.jpeg  used on input line 52
+.
+(pdftex.def)             Requested size: 381.675pt x 190.08469pt.
+<./CasosdeUso/Contralor.jpeg, id=264, 581.17125pt x 252.19218pt>
+File: ./CasosdeUso/Contralor.jpeg Graphic file (type jpg)
+<use ./CasosdeUso/Contralor.jpeg>
+Package pdftex.def Info: ./CasosdeUso/Contralor.jpeg  used on input line 58.
+(pdftex.def)             Requested size: 435.87737pt x 189.14366pt.
+ [15pdfTeX warning (ext4): destination with the same identifier (name{figure.2}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.61 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.3
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.61 
+      <./CasosdeUso/Administracion.jpeg> <./CasosdeUso/Bibliotecario.jpeg>]
+<./CasosdeUso/ControlEscolar.jpeg, id=271, 526.96875pt x 219.06844pt>
+File: ./CasosdeUso/ControlEscolar.jpeg Graphic file (type jpg)
+<use ./CasosdeUso/ControlEscolar.jpeg>
+Package pdftex.def Info: ./CasosdeUso/ControlEscolar.jpeg  used on input line 6
+4.
+(pdftex.def)             Requested size: 395.22559pt x 164.3009pt.
+<./CasosdeUso/Docentes.jpeg, id=272, 676.02562pt x 347.04657pt>
+File: ./CasosdeUso/Docentes.jpeg Graphic file (type jpg)
+<use ./CasosdeUso/Docentes.jpeg>
+Package pdftex.def Info: ./CasosdeUso/Docentes.jpeg  used on input line 70.
+(pdftex.def)             Requested size: 473.21469pt x 242.93094pt.
+
+Overfull \hbox (1.18346pt too wide) in paragraph at lines 70--71
+ [][] 
+ []
+
+[16pdfTeX warning (ext4): destination with the same identifier (name{figure.4})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.73 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.5
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.73 
+      <./CasosdeUso/Contralor.jpeg> <./CasosdeUso/ControlEscolar.jpeg>]
+<./CasosdeUso/Prefectura.jpeg, id=279, 577.40718pt x 283.81032pt>
+File: ./CasosdeUso/Prefectura.jpeg Graphic file (type jpg)
+<use ./CasosdeUso/Prefectura.jpeg>
+Package pdftex.def Info: ./CasosdeUso/Prefectura.jpeg  used on input line 76.
+(pdftex.def)             Requested size: 433.05432pt x 212.85721pt.
+<./CasosdeUso/invitado.jpeg, id=280, 288.3272pt x 147.55125pt>
+File: ./CasosdeUso/invitado.jpeg Graphic file (type jpg)
+<use ./CasosdeUso/invitado.jpeg>
+Package pdftex.def Info: ./CasosdeUso/invitado.jpeg  used on input line 82.
+(pdftex.def)             Requested size: 288.32648pt x 147.55087pt.
+
+[17pdfTeX warning (ext4): destination with the same identifier (name{figure.6})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.85 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.7
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.85 
+      <./CasosdeUso/Docentes.jpeg> <./CasosdeUso/Prefectura.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
+
+[18pdfTeX warning (ext4): destination with the same identifier (name{figure.8})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.98 \begin{itemize}
+                     <./CasosdeUso/invitado.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--121
+
+ []
+
+[19]
+<./InterfazAbstracta/Header.jpg, id=297, 437.38406pt x 194.97844pt>
+File: ./InterfazAbstracta/Header.jpg Graphic file (type jpg)
+<use ./InterfazAbstracta/Header.jpg>
+Package pdftex.def Info: ./InterfazAbstracta/Header.jpg  used on input line 124
+.
+(pdftex.def)             Requested size: 306.16675pt x 136.48396pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--131
+
+ []
+
+[20pdfTeX warning (ext4): destination with the same identifier (name{figure.9})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.131 
+       <./InterfazAbstracta/Header.jpg>]
+<./InterfazAbstracta/Header2.jpg, id=303, 287.57437pt x 97.11281pt>
+File: ./InterfazAbstracta/Header2.jpg Graphic file (type jpg)
+<use ./InterfazAbstracta/Header2.jpg>
+Package pdftex.def Info: ./InterfazAbstracta/Header2.jpg  used on input line 13
+4.
+(pdftex.def)             Requested size: 258.81454pt x 87.40071pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--140
+
+ []
+
+<./InterfazAbstracta/Inicio.jpg, id=304, 243.91125pt x 246.1697pt>
+File: ./InterfazAbstracta/Inicio.jpg Graphic file (type jpg)
+<use ./InterfazAbstracta/Inicio.jpg>
+Package pdftex.def Info: ./InterfazAbstracta/Inicio.jpg  used on input line 143
+.
+(pdftex.def)             Requested size: 219.51808pt x 221.55066pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+<./InterfazAbstracta/Informacion.jpg, id=305, 243.91125pt x 246.1697pt>
+File: ./InterfazAbstracta/Informacion.jpg Graphic file (type jpg)
+<use ./InterfazAbstracta/Informacion.jpg>
+Package pdftex.def Info: ./InterfazAbstracta/Informacion.jpg  used on input lin
+e 151.
+(pdftex.def)             Requested size: 219.51808pt x 221.55066pt.
+[21pdfTeX warning (ext4): destination with the same identifier (name{figure.10}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.154 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+11}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.154 
+       <./InterfazAbstracta/Header2.jpg> <./InterfazAbstracta/Inicio.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 155--158
+
+ []
+
+<./InterfazAbstracta/MisionVision.jpg, id=312, 247.67531pt x 246.1697pt>
+File: ./InterfazAbstracta/MisionVision.jpg Graphic file (type jpg)
+<use ./InterfazAbstracta/MisionVision.jpg>
+Package pdftex.def Info: ./InterfazAbstracta/MisionVision.jpg  used on input li
+ne 161.
+(pdftex.def)             Requested size: 222.90572pt x 221.55066pt.
+[22pdfTeX warning (ext4): destination with the same identifier (name{figure.12}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.164 
+       <./InterfazAbstracta/Informacion.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+
+ []
+
+<./InterfazAbstracta/Infraestructura.jpg, id=318, 247.67531pt x 246.1697pt>
+File: ./InterfazAbstracta/Infraestructura.jpg Graphic file (type jpg)
+<use ./InterfazAbstracta/Infraestructura.jpg>
+Package pdftex.def Info: ./InterfazAbstracta/Infraestructura.jpg  used on input
+ line 169.
+(pdftex.def)             Requested size: 222.90572pt x 221.55066pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--175
+
+ []
+
+[23pdfTeX warning (ext4): destination with the same identifier (name{figure.13}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.175 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+14}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.175 
+       <./InterfazAbstracta/MisionVision.jpg> <./InterfazAbstracta/Infraestruct
+ura.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
+
+ []
+
+) [24]
+\openout2 = `resultados.aux'.
+
+ (resultados.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 9--20
+
+ []
+
+[25
+
+
+]
+\openout2 = `conclusiones.aux'.
+
+ (conclusiones.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
+
+ []
+
+[26
+
+
+]
+\openout2 = `competencias.aux'.
+
+ (competencias.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 4--22
+
+ []
+
+[27
+
+
+]
+\openout2 = `fuentesinformacion.aux'.
+
+ (fuentesinformacion.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 4--23
+
+ []
+
+[28
+
+
+]
+\openout2 = `anexos.aux'.
+
+ (anexos.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 4--24
+
+ []
+
+[29
+
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 27.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 27.
+ (Informe_Tecnico.xwm)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+(Informe_Tecnico.aux (portada.aux) (Agradecimientos.aux)
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+ (resumen.aux)
+(generalidades.aux) (Marcoteorico.aux) (desarrollo.aux) (resultados.aux)
+(conclusiones.aux) (competencias.aux) (fuentesinformacion.aux) (anexos.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 27.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 27.
+Package rerunfilecheck Info: File `Informe_Tecnico.out' has not changed.
+(rerunfilecheck)             Checksum: 3DF8A338C15600D3B1817E1DE45F80E5;2785.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 27.
+ ) 
+Here is how much of TeX's memory you used:
+ 12746 strings out of 492895
+ 207652 string characters out of 3120931
+ 359373 words of memory out of 3000000
+ 16321 multiletter control sequences out of 15000+200000
+ 10462 words of font info for 38 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 70i,17n,71p,1078b,892s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Albert Vela/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmbx12.pfb><C:/Users/Albert Vela/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on Informe_Tecnico.pdf (29 pages, 747748 bytes).
+PDF statistics:
+ 378 PDF objects out of 1000 (max. 8388607)
+ 79 named destinations out of 1000 (max. 500000)
+ 397 words of extra memory for PDF output out of 10000 (max. 10000000)
+

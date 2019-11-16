@@ -1,0 +1,180 @@
+\renewcommand{\thesection}{\Roman{section}}
+\section{Desarrollo}
+
+\renewcommand{\thesection}{\arabic{section}}
+\subsection{Procedimiento y descripciòn de las actividades realizadas}
+
+{\large Información de la empresa}\\
+
+\subsubsection{Diagrama de Flujo}
+
+\subsubsection{Descripción de la metodología aplicada}
+
+{\large Para el desarrollo de aplicaciones web existen diversas metodologías que permiten una mejor organización de las actividades para llegar a un resultado mas f'{a}cil y rapido posible.}\\
+
+{\large El modelo OOHDM u Object Oriented Hypermedia Design Methodology, para diseño de aplicaciones hipermedia y para la Web, fue diseñado por D. Schwabe, G. Rossi, and S. D. J. Barbosa y es una extensión de HDM con orientación a objetos, que se está convirtiendo en una de las metodologías más utilizadas. Ha sido usada para diseñar diferentes tipos de aplicaciones hipermedia como galerías interactivas, presentaciones multimedia y, sobre todo, numerosos sitios web.}\\
+
+{\large Esta metodología consta de 5 etapas, las cuales permiten un mejor desarrollo para el programador. Las etapas que componen a esta metodología son:}\\
+
+\begin{itemize}
+\item Obtención de Requerimientos
+\item Modelo Conceptual
+\item Diseño Navegacional
+\item Diseño de Interfaz Abstracta
+\item Implementación
+\end{itemize}
+
+{\large En cada una de las etapas que componen esta metodología se desarrollan diferentes actividades que ayudan a entender mejor lo que hará el sistema. A continuación se describe cada una de las etapas antes mencionadas. }\\
+
+\paragraph{Obtención de Requerimientos}
+{\large La herramienta en la cual se fundamenta esta fase son los diagramas de casos de usos, los cuales son diseñados por escenarios con la finalidad de obtener de manera clara los requerimientos y acciones del sistema.
+
+Según (GERMAN 2003) primero que todo es necesaria la recopilación de requerimientos. En este punto, se hace necesario identificar los actores y las tareas que ellos deben realizar. Luego, se determinan los escenarios para cada tarea y tipo de actor. Los casos de uso que surgen a partir de aquí, serán luego representados mediante los Diagramas de Interacción de Usuario (UIDs), los cuales proveen de una representación gráfica concisa de la interacción entre el usuario y el sistema durante la ejecución de alguna tarea. Con este tipo de diagramas se capturan los requisitos de la aplicación de manera independiente de la implementación. Ésta es una de las fases más importantes, debido a que es aquí donde se realiza la recogida de datos.}\\
+
+{\large Aplicando la metodología al proyecto que se realizo para la Escuela Secundaria Técnica No. 96 en ests primera etapa se desarrollaron los primeros diagramas UML, en este caso fueron los casos de uso, que a continuación se exponen.}\\ 
+
+{\large Después de realizar una entrevista con el encargado de la Institución y escuchar sus requerimientos sobre el sistema, se determinaron los usuarios que intervendran en el sistema, así como las actividades que podran realizar dependiendo de cada usuario. }\\
+
+\begin{figure}[H]	
+	\centering
+	\includegraphics[scale=0.75]{./CasosdeUso/Alumnos.jpeg}
+	\caption{Caso de Uso de Usuario Alumno}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+	\includegraphics[scale=0.7]{./CasosdeUso/Administracion.jpeg}
+	\caption{Caso de Uso de Usuario Administrativo}	
+\end{figure}
+
+\begin{figure}[H]
+\centering
+	\includegraphics[scale=0.5]{./CasosdeUso/Bibliotecario.jpeg}
+	\caption{Caso de Uso de Usuario Bibliotecario}	
+\end{figure}
+
+\begin{figure}[H]	
+	\centering
+	\includegraphics[scale=0.75]{./CasosdeUso/Contralor.jpeg}
+	\caption{Caso de Uso de Usuario Contraloria}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+	\includegraphics[scale=0.75]{./CasosdeUso/ControlEscolar.jpeg}
+	\caption{Caso de Uso de Usuario Control Escolar}	
+\end{figure}
+
+\begin{figure}[H]
+\centering
+	\includegraphics[scale=0.7]{./CasosdeUso/Docentes.jpeg}
+	\caption{Caso de Uso de Usuario Docentes}	
+\end{figure}
+
+\begin{figure}[H]
+\centering
+	\includegraphics[scale=0.75]{./CasosdeUso/Prefectura.jpeg}
+	\caption{Caso de Uso de Usuario Prefectura}	
+\end{figure}
+
+\begin{figure}[H]
+\centering
+	\includegraphics[scale=1]{./CasosdeUso/invitado.jpeg}
+	\caption{Caso de Uso de Usuario Invitado}	
+\end{figure}
+
+\paragraph{Modelo Conceptual}
+{\large En la segunda etapa se construye un esquema conceptual representado por los objetos de dominio o clases y las relaciones entre dichos objetos. Se puede usar un modelo de datos semántico estructural (como el modelo de entidades y relaciones). El modelo OOHDM propone como esquema conceptual basado en clases, relaciones y subsistemas.}\\
+
+\paragraph{Diseño Navegacional}
+{\large En OOHDM una aplicación se ve a través de un sistema de navegación. En la fase de diseño navegacional se debe diseñar la aplicación teniendo en cuenta las tareas que el usuario va a realizar sobre el sistema. Para ello, hay que partir del esquema conceptual desarrollado en la fase anterior. Hay que tener en cuenta que sobre un mismo esquema conceptual se pueden desarrollar diferentes modelos navegacionales (cada uno de los cuales dará origen a una aplicación diferente).
+
+La estructura de navegación de una aplicación hipermedia está definida por un esquema de clases de navegación específica, que refleja una posible vista elegida. En OOHDM hay una serie de clases especiales predefinidas, que se conocen como clases navegacionales: Nodos, Enlaces y Estructuras de acceso, que se organizan dentro de un Contexto Navegacional. La semántica de los nodos y los enlaces son comunes a todas las aplicaciones hipermedia, las estructuras de acceso representan diferentes modos de acceso a esos nodos y enlaces de forma específica en cada aplicación.}\\
+
+\begin{itemize}
+\item Nodos
+\end{itemize}
+{\large Los nodos son contenedores básicos de información de las aplicaciones hipermedia. Se definen como vistas orientadas a objeto de las clases definidas durante el diseño conceptual usando un lenguaje predefinido y muy intuitivo, permitiendo así que un nodo sea definido mediante la combinación de atributos de clases diferentes relacionadas en el modelo de diseño conceptual. Los nodos contendrán atributos de tipos básicos (donde se pueden encontrar tipos como imágenes o sonidos) y enlaces.}\\
+\begin{itemize}
+\item Enlaces 
+\end{itemize}
+{\large  Los enlaces reflejan la relación de navegación que puede explorar el usuario. Ya sabemos que para un mismo esquema conceptual puede haber diferentes esquemas navegacionales y los enlaces van a ser imprescindibles para poder crear esas vistas diferentes.}\\
+\begin{itemize}
+\item Estrucutras de Acceso
+\end{itemize}
+{\large Las estructuras de acceso actúan como índices o diccionarios que permiten al usuario encontrar de forma rápida y eficiente la información deseada. Los menús, los índices o las guías de ruta son ejemplos de estas estructuras. Las estructuras de acceso también se modelan como clases, compuestas por un conjunto de referencias a objetos que son accesibles desde ella y una serie de criterios de clasificación de las mismas.}\\
+\begin{itemize}
+\item Contexto Navegacional
+\end{itemize}
+{\large Para diseñar bien una aplicación hipermedia, hay que prever los caminos que el usuario puede seguir, así es como únicamente podremos evitar información redundante o que el usuario se pierda en la navegación. En OOHDM un contexto navegacional está compuesto por un conjunto de nodos, de enlaces, de clases de contexto y de otros contextos navegacionales. Estos son introducidos desde clases de navegación (enlaces, nodos o estructuras de acceso), pudiendo ser definidas por extensión o de forma implícita.}\\
+\begin{itemize}
+\item Clase de Contexto
+\end{itemize}
+{\large Es otra clase especial que sirve para complementar la definición de una clase de navegación. Por ejemplo, sirve para indicar qué información está accesible desde un enlace y desde dónde se puede llegar a él.}\\
+
+{\large La navegación no se encontraría definida sin el otro modelo que propone OOHDM: el contexto navegacional. Esto es la estructura de la presentación dentro de un determinado contexto. Los contextos navegacionales son uno de los puntos más criticados a OOHDM debido a su complejidad de expresión.}\\
+
+\paragraph{Diseño de Interfaz Abstracta}
+{\large La cuarta etapa está dedicada a la especificación de la interfaz abstracta. Así, se define la forma en la cual deben aparecer los contextos navegacionales. También se incluye aquí el modo en que dichos objetos de interfaz activarán la navegación y el resto de funcionalidades de la aplicación, esto es, se describirán los objetos de interfaz y se los asociará con objetos de navegación. La separación entre el diseño navegacional y el diseño de interfaz abstracta permitirá construir diferentes interfaces para el mismo modelo navegacional.}\\
+\vspace{1cm}\\
+{\large En el diseño del sistema web se tomaron en cuenta las tres secciones que componen una pagina web, empezando por el Header(cabecera), el Body(cuerpo) y finalmente el Footer(pie), colocando en cada una de esas secciones la información de más importancia y referente a la Institución.}\\
+
+\begin{figure}[H]
+\centering
+	\includegraphics[scale=0.7]{./InterfazAbstracta/Header.jpg}
+	\caption{Diseño de Header}	
+\end{figure}
+
+{\large El primer componente es el Header, en este se coloco el logo de las escuelas secundarias técnicas, se utilizó este logo ya que es el que todas las instituciones pertenecientes a ese sistema utilizan, a un costado del logo, y en forma de titulo se redacto el nombre completo de la institución y la población donde está ubicada.
+Debajo del logo y el título va colocado un menú con tres botones que nos permitirán la navegación por el sistema, el primer botón es el de inicio, y permitirá regresar a la pagina principal desde la ventana donde el usuario este operando. En la parte media del menú se opto por poner un botón llamado Institución este botón se diseño de forma desplegable ya que en el se incluyeron las ventanas donde se mostrará información acerca de la institución como la misión, visión y valores que tiene la escuela, la infraestructura de toda el área. Como última opción del menú de igual forma de coloco un botón plegable denominado Servicios, las opciones que se tendrán disponibles en este botón serán relacionadas a los servicios que la institución dispone para los estudiantes y docentes, destacando el Buzón de quejas y sugerencias, el área del Centro de Computo y la Biblioteca escolar, mostrando la infraestructura, horario de atención, y el personal que esta a cargo de los dos últimos servicios.
+Cuando algún usuario inicie sesión en el sistema el menú que aparece debajo del logo y nombre de la institución se le agregara un nuevo elemento y será el botón para cerrar la sesión.}\\
+
+\begin{figure}[H]
+\centering
+	\includegraphics[scale=0.9]{./InterfazAbstracta/Header2.jpg}
+	\caption{Diseño de Header con Usuario Logueado}	
+\end{figure}
+
+{\large En la sección del Body, dependiendo de la ventana donde se encuentre el usuario así será el contenido que se muestre, el Header y Footer siempre será el mismo para todas las ventanas. 
+A continuación, se describirá el contenido del body de cada una de las ventanas que componen el sistema.}\\
+
+\begin{figure}[H]
+\centering
+	\includegraphics[scale=0.9]{./InterfazAbstracta/Inicio.jpg}
+	\caption{Diseño de Pantalla de Inicio en Sistema}	
+\end{figure}
+
+{\large Cuando el usuario ejecute el sistema en algún navegador lo primero a mostrar será la pantalla de inicio, en el cuerpo de la pantalla se mostrará una serie de imágenes relacionadas a la Institución, debajo estará un mensaje donde se da la bienvenida al usuario, posterior a este elemento estarán colocados un grupo de botones que se habilitaran siempre y cuando el usuario se loguee en el sistema, de otra forma no podrá hacer uso de ellos.}\\
+
+\begin{figure}[H]
+\centering
+	\includegraphics[scale=0.9]{./InterfazAbstracta/Informacion.jpg}
+	\caption{Diseño de Pantalla de Información}	
+\end{figure}
+
+{\large En esta pantalla se mostrará la información sobre la escuela, como la historia de la misma, narrando el comienzo y los sucesos mas importantes de la institución, quienes fueron sus fundadores, los primeros docentes que impartieron clases y sobre todo el primer director a cargo de la misma.
+Posterior a esto se mostrarán los diferentes convenios que tenga la institución con empresas que permitan tener un campo de practicas o laboral para los estudiantes y puedan ejercer lo aprendido en las aulas.
+Por ultimo se redactarán las diferentes certificaciones con las que cuenta la Institución, mostrando así que es una escuela de calidad.}\\
+
+\begin{figure}[H]
+\centering
+	\includegraphics[scale=0.9]{./InterfazAbstracta/MisionVision.jpg}
+	\caption{Diseño de Pantalla de Misión y Visión de la Institución}	
+\end{figure}
+
+{\large Otra ventana que forma parte del apartado de Información es la de Misión y Visión de la Institución, en esta ventana se redactara la Misión y Visión que tiene la Institución para con los alumnos, como dependencia de educación y con la sociedad en general, así mismo se mostrarán los valores que tiene como pilares para el mejor desarrollo y fomento de la educación.}\\
+
+\begin{figure}[H]
+\centering
+	\includegraphics[scale=0.9]{./InterfazAbstracta/Infraestructura.jpg}
+	\caption{Diseño de Pantalla de Infraestructura de la Institución}	
+\end{figure}
+
+{\large Como última opción del botón de Información se tiene la de infraestructura y ubicación de la Institución, en esta ventana se mostrarán fotografías de las diferentes edificaciones con las que cuenta la Institución, como lo es: las Aulas de aprendizaje, las oficinas de los diferentes administrativos que laboran, las áreas de recreación que permite el desarrollo físico de los estudiantes, la cafetería escolar donde los alumnos y personal de la institución consumen sus alimentos, y demás áreas que ayuden al crecimiento de los jóvenes. 
+Así mismo se mostrará un mapa donde se indicará la ubicación de la Institución, haciendo referencia a los lugares de importancia más cercanos, así como los caminos que hay para llegar a ella.}\\
+
+\paragraph{Implementación}
+
+{\large La ultima etapa, dedicada a la puesta en práctica, es donde se hacen corresponder los objetos de interfaz con los objetos de implementación.}\\
+
+

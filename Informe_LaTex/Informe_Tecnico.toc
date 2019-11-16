@@ -1,0 +1,38 @@
+\babel@toc {spanish}{}
+\contentsline {section}{Agradecimientos}{3}{Doc-Start}% 
+\contentsline {section}{Resumen}{4}{Doc-Start}% 
+\contentsline {section}{\numberline {I}Generalidades del Proyecto}{6}{section.1}% 
+\contentsline {subsection}{\numberline {1.1}Introducci\IeC {\'o}n}{6}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1.2}Descripci\IeC {\'o}n de la empresa u organizaci\IeC {\'o}n y del puesto o \IeC {\'a}rea del trabajo el estudiante}{6}{subsection.1.2}% 
+\contentsline {subsubsection}{\numberline {1.2.1}Descripcion de la Empresa}{6}{subsubsection.1.2.1}% 
+\contentsline {paragraph}{\numberline {1.2.1.1}Misi\IeC {\'o}n}{7}{paragraph.1.2.1.1}% 
+\contentsline {paragraph}{\numberline {1.2.1.2}Visi\IeC {\'o}n}{7}{paragraph.1.2.1.2}% 
+\contentsline {paragraph}{\numberline {1.2.1.3}Objetivos}{7}{paragraph.1.2.1.3}% 
+\contentsline {paragraph}{\numberline {1.2.1.4}Organigrama}{7}{paragraph.1.2.1.4}% 
+\contentsline {subsubsection}{\numberline {1.2.2}Descripci\IeC {\'o}n del \IeC {\'a}rea de trabajo en donde se inserta el proyecto de residencia}{7}{subsubsection.1.2.2}% 
+\contentsline {subsection}{\numberline {1.3}Problemas a resolver}{8}{subsection.1.3}% 
+\contentsline {subsection}{\numberline {1.4}Objetivos}{9}{subsection.1.4}% 
+\contentsline {subsubsection}{\numberline {1.4.1}Objetivo General}{9}{subsubsection.1.4.1}% 
+\contentsline {subsubsection}{\numberline {1.4.2}Objetivos Especificos}{9}{subsubsection.1.4.2}% 
+\contentsline {subsection}{\numberline {1.5}Justificacion}{9}{subsection.1.5}% 
+\contentsline {section}{\numberline {II}Marco Te\IeC {\'o}rico}{11}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Marco Conceptual}{11}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Discusi\IeC {\'o}n Te\IeC {\'o}rica}{12}{subsection.2.2}% 
+\contentsline {section}{\numberline {III}Desarrollo}{13}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Procedimiento y descripci\IeC {\`o}n de las actividades realizadas}{13}{subsection.3.1}% 
+\contentsline {subsubsection}{\numberline {3.1.1}Diagrama de Flujo}{13}{subsubsection.3.1.1}% 
+\contentsline {subsubsection}{\numberline {3.1.2}Descripci\IeC {\'o}n de la metodolog\IeC {\'\i }a aplicada}{13}{subsubsection.3.1.2}% 
+\contentsline {paragraph}{\numberline {3.1.2.1}Obtenci\IeC {\'o}n de Requerimientos}{13}{paragraph.3.1.2.1}% 
+\contentsline {paragraph}{\numberline {3.1.2.2}Modelo Conceptual}{18}{paragraph.3.1.2.2}% 
+\contentsline {paragraph}{\numberline {3.1.2.3}Dise\IeC {\~n}o Navegacional}{18}{paragraph.3.1.2.3}% 
+\contentsline {paragraph}{\numberline {3.1.2.4}Dise\IeC {\~n}o de Interfaz Abstracta}{20}{paragraph.3.1.2.4}% 
+\contentsline {paragraph}{\numberline {3.1.2.5}Implementaci\IeC {\'o}n}{24}{paragraph.3.1.2.5}% 
+\contentsline {section}{\numberline {IV}Resultados}{25}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Exposicion de Resultados}{25}{subsection.4.1}% 
+\contentsline {section}{\numberline {V}Conclusiones}{26}{section.5}% 
+\contentsline {subsection}{\numberline {5.1}Conclusiones de Proyecto}{26}{subsection.5.1}% 
+\contentsline {subsection}{\numberline {5.2}Recomendaciones}{26}{subsection.5.2}% 
+\contentsline {subsection}{\numberline {5.3}Experiencia Personal Profesional Adquirida}{26}{subsection.5.3}% 
+\contentsline {section}{\numberline {VI}Competencias Desarrolladas}{27}{section.6}% 
+\contentsline {section}{\numberline {VII}Fuentes De Informaci\IeC {\'o}n}{28}{section.7}% 
+\contentsline {section}{\numberline {VIII}Anexos}{29}{section.8}% 
